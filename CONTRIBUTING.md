@@ -9,4 +9,5 @@
 
 <br>
 
-> **Note**: Always test the results before committing!
+> [!NOTE]
+> Always test the results before committing!
