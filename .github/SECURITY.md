@@ -15,8 +15,8 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-If you discover a security issue in this repository, please submit it through my [email](mailto:hi@hiiruki.dev) address.
+If you discover a security issue in this repository, please submit it through my [email](mailto:hi@hiiruki.dev) address with the subject `SECURITY REPORT`.
 
 ## Preferred Languages to Report a Vulnerability
 
-I prefer all communications to be in English (EN).
+I prefer all communications to be in English (EN) or Indonesia (ID).
